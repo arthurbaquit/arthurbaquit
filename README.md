@@ -25,9 +25,29 @@ Since high school, I've been passionate about solving real-life problems with co
 
 <img align="left" alt="GraphQL" width="30px" src="https://camo.githubusercontent.com/4f06622b58ef8d2b07d366a4296dfa73965f02f2a824563afb0c4cca0665da97/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6772617068716c2f6772617068716c2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="max-width: 100%;">
 <img align="left" alt="MongoDB" width="30px" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;">
+
 <br/>
 
+---
 
+### Contatcs
+<a href=https://www.linkedin.com/in/arthur-baquit/><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/linkedin.png" style="max-width: 100%;"></a> <a href=mailto:arthur.baquit@hotmail.com><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/mail.png" style="max-width: 100%;"></a>
+</br>
+</hr>
+
+<details>
+  <summary>👨🏻‍💻 Working Trajectory</summary>
+  <ul>
+  <li> At SuaQuadra, a real estate platform that connects entrepreneurs with potential business locations, I mainly use Golang and React/TypeScript.</li>
+  <li> At Clubbi, a platform that connects small merchants with major retail chains (known as "atacarejos" in Portuguese), I mainly used typed Python and React/TypeScript.</li>
+ <li>At Osaka University, I worked in a robotics lab that had partnerships with companies such as Toyota. Here, I mainly used Python, C++, and ROS.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>👨🏻‍🎓 Studying Trajectory</summary>
+    During high school, I participated in programming science Olympiads, where I won several medals programming in C/C++. After joining a Brazilian university, I gained experience in various fields, from microprocessors like Arduino applied in IoT to machine learning. During that time, I also had the opportunity to learn multiple programming languages such as R, Mathematica, Python, and Java. After careful consideration, I decided to pursue my Bachelor's degree in System Science at Osaka University in Japan. There, I worked in a lab that had partnerships with companies such as Toyota, where I gained hands-on experience in robotics using C++, ROS, and Python. In the past few years, I have had the opportunity to split apart from the research world and join the dynamic world of startups, where I started developing web applications and working with web development. Today, I spend my time as a developer, continuously learning through online resources and completing various Udemy courses to expand my knowledge and skillset.
+</details>
 
 <!--
 **arthurbaquit/arthurbaquit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
