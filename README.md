@@ -9,7 +9,18 @@ Since high school, I've been passionate about solving real-life problems with co
 
 ## Languages and tools
 
-![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg){: align="left" width="30px" } ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg){: align="left" width="30px" } ![Typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg){: align="left" width="30px" } ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg){: align="left" width="30px" } ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){: align="left" width="30px" } ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){: align="left" width="30px" } ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){: align="left" width="30px" } ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){: align="left" width="30px" } ![GitHub](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png){: align="left" width="30px" } ![Terminal](https://img.icons8.com/ios-filled/512/console.png){: align="left" width="30px" } ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg){: align="left" width="30px" } ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg){: align="left" width="30px"}
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://img.icons8.com/ios-filled/512/console.png" alt="Terminal" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" style="max-width: 100%;" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="max-width: 100%;" />
 
 </br>
 
@@ -17,16 +28,12 @@ Since high school, I've been passionate about solving real-life problems with co
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/arthur-baquit/">
-  <img src="https://img.icons8.com/ios/512/linkedin.png" alt="LinkedIn" style="width: 30px; display: inline;" />
-</a>
-<a href="mailto:arthur.baquit@hotmail.com">
-  <img src="https://img.icons8.com/ios/512/mail.png" alt="Email" style="width: 30px; display: inline;" />
-</a>
-
+<a href=https://www.linkedin.com/in/arthur-baquit/><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/linkedin.png" style="max-width: 100%;"></a> <a href=mailto:arthur.baquit@hotmail.com><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/mail.png" style="max-width: 100%;"></a>
 </br>
 
-</hr>
+---
+
+### Details
 
 <details>
   <summary>👨🏻‍💻 Working Trajectory</summary>
@@ -34,7 +41,6 @@ Since high school, I've been passionate about solving real-life problems with co
 - At **SuaQuadra**, a real estate platform that connects entrepreneurs with potential business locations, I mainly used **Golang** and **React/TypeScript**.
 - At **Clubbi**, a platform that connects small merchants with major retail chains (known as "atacarejos" in Portuguese), I mainly used **typed Python** and **React/TypeScript**.
 - At **Osaka University**, I worked in a robotics lab that had partnerships with companies such as **Toyota**. Here, I mainly used **Python**, **C++**, and **ROS**.
-
 </details>
 
 <details>
