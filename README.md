@@ -1,4 +1,4 @@
-<h1> <img alt="opening tag" src="https://icons-for-free.com/iconfiles/png/512/remix+icons+++development+icons+s+line-1324442091022034733.png" height="30px"> Arthur Baquit <img alt="closing tag" src="https://icons-for-free.com/iconfiles/png/512/remix+icons+++development+icons+s+slash+fill-1324442091154768381.png" height="30px"> </h1>
+# Arthur Baquit
 
 **`Passionate programmer (Developer)`**
 </br>
@@ -6,47 +6,45 @@
 Since high school, I've been passionate about solving real-life problems with code. As a developer, I'm always eager to learn new tools and apply them in innovative ways. Currently, I'm working as a developer, and I challenge myself to learn something new or different each week to further develop my skills. Check out my GitHub profile to see some of my latest projects.
 
 ---
-### Languages and tools
 
-<img align="left" alt="Golang" width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
-<img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" alt="Python" align="left" style="max-width: 100%;" />
+## Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" alt="Python" align="left" style="max-width: 100%;" />
+![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg){: align="left" width="30px" } ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg){: align="left" width="30px" } ![Typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg){: align="left" width="30px" } ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg){: align="left" width="30px" } ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){: align="left" width="30px" } ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg){: align="left" width="30px" } ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){: align="left" width="30px" } ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){: align="left" width="30px" } ![GitHub](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png){: align="left" width="30px" } ![Terminal](https://img.icons8.com/ios-filled/512/console.png){: align="left" width="30px" } ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg){: align="left" width="30px" } ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg){: align="left" width="30px"}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python" align="left" style="max-width: 100%;" />
-
-<img align="left" alt="MySQL" width="30px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-<img align="left" alt="HTML5" width="30px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
-<img align="left" alt="CSS3" width="30px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;">
-
-<img align="left" alt="Terminal" height='30px' src="https://img.icons8.com/ios-filled/512/console.png" />
-
-<img align="left" alt="GraphQL" width="30px" src="https://camo.githubusercontent.com/4f06622b58ef8d2b07d366a4296dfa73965f02f2a824563afb0c4cca0665da97/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6772617068716c2f6772617068716c2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="max-width: 100%;">
-<img align="left" alt="MongoDB" width="30px" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;">
-
-<br/>
+</br>
 
 ---
 
-### Contatcs
-<a href=https://www.linkedin.com/in/arthur-baquit/><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/linkedin.png" style="max-width: 100%;"></a> <a href=mailto:arthur.baquit@hotmail.com><img align="left" alt="Email" width="30px" src="https://img.icons8.com/ios/512/mail.png" style="max-width: 100%;"></a>
+### Contact
+
+<a href="https://www.linkedin.com/in/arthur-baquit/">
+  <img src="https://img.icons8.com/ios/512/linkedin.png" alt="LinkedIn" style="width: 30px; display: inline;" />
+</a>
+<a href="mailto:arthur.baquit@hotmail.com">
+  <img src="https://img.icons8.com/ios/512/mail.png" alt="Email" style="width: 30px; display: inline;" />
+</a>
+
 </br>
+
 </hr>
 
 <details>
   <summary>👨🏻‍💻 Working Trajectory</summary>
-  <ul>
-  <li> At SuaQuadra, a real estate platform that connects entrepreneurs with potential business locations, I mainly use Golang and React/TypeScript.</li>
-  <li> At Clubbi, a platform that connects small merchants with major retail chains (known as "atacarejos" in Portuguese), I mainly used typed Python and React/TypeScript.</li>
- <li>At Osaka University, I worked in a robotics lab that had partnerships with companies such as Toyota. Here, I mainly used Python, C++, and ROS.</li>
-  </ul>
+  
+- At **SuaQuadra**, a real estate platform that connects entrepreneurs with potential business locations, I mainly used **Golang** and **React/TypeScript**.
+- At **Clubbi**, a platform that connects small merchants with major retail chains (known as "atacarejos" in Portuguese), I mainly used **typed Python** and **React/TypeScript**.
+- At **Osaka University**, I worked in a robotics lab that had partnerships with companies such as **Toyota**. Here, I mainly used **Python**, **C++**, and **ROS**.
+
 </details>
 
 <details>
   <summary>👨🏻‍🎓 Studying Trajectory</summary>
-    During high school, I participated in programming science Olympiads, where I won several medals programming in C/C++. After joining a Brazilian university, I gained experience in various fields, from microprocessors like Arduino applied in IoT to machine learning. During that time, I also had the opportunity to learn multiple programming languages such as R, Mathematica, Python, and Java. After careful consideration, I decided to pursue my Bachelor's degree in System Science at Osaka University in Japan. There, I worked in a lab that had partnerships with companies such as Toyota, where I gained hands-on experience in robotics using C++, ROS, and Python. In the past few years, I have had the opportunity to split apart from the research world and join the dynamic world of startups, where I started developing web applications and working with web development. Today, I spend my time as a developer, continuously learning through online resources and completing various Udemy courses to expand my knowledge and skillset.
+  
+  During high school, I participated in programming science Olympiads, where I won several medals programming in **C/C++**. After joining a Brazilian university, I gained experience in various fields, from microprocessors like **Arduino** applied in IoT to **machine learning**. During that time, I also had the opportunity to learn multiple programming languages such as **R**, **Mathematica**, **Python**, and **Java**.  
+  After careful consideration, I decided to pursue my Bachelor's degree in **System Science** at **Osaka University** in Japan. There, I worked in a lab that had partnerships with companies such as **Toyota**, where I gained hands-on experience in robotics using **C++**, **ROS**, and **Python**.
+
+In the past few years, I have had the opportunity to move away from the research world and join the dynamic world of startups, where I started developing web applications and working with web development. Today, I spend my time as a developer, continuously learning through online resources and completing various **Udemy courses** to expand my knowledge and skillset.
+
 </details>
 
 <!--
